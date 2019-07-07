@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lekpramual/deploy-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/lekpramual/deploy-react/static/js/main.fbbcc329.chunk.js",
+    "main.js.map": "/lekpramual/deploy-react/static/js/main.fbbcc329.chunk.js.map",
+    "runtime~main.js": "/lekpramual/deploy-react/static/js/runtime~main.abea66b1.js",
+    "runtime~main.js.map": "/lekpramual/deploy-react/static/js/runtime~main.abea66b1.js.map",
+    "static/js/2.790236c7.chunk.js": "/lekpramual/deploy-react/static/js/2.790236c7.chunk.js",
+    "static/js/2.790236c7.chunk.js.map": "/lekpramual/deploy-react/static/js/2.790236c7.chunk.js.map",
+    "index.html": "/lekpramual/deploy-react/index.html",
+    "precache-manifest.7c6162beef7aa352204df31ab184cf15.js": "/lekpramual/deploy-react/precache-manifest.7c6162beef7aa352204df31ab184cf15.js",
+    "service-worker.js": "/lekpramual/deploy-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/lekpramual/deploy-react/static/css/main.2cce8147.chunk.css.map"
+  }
+}
