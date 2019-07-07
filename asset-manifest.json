@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lekpramual/deploy-react/static/css/main.2cce8147.chunk.css",
-    "main.js": "/lekpramual/deploy-react/static/js/main.b5fab1f6.chunk.js",
-    "main.js.map": "/lekpramual/deploy-react/static/js/main.b5fab1f6.chunk.js.map",
-    "runtime~main.js": "/lekpramual/deploy-react/static/js/runtime~main.abea66b1.js",
-    "runtime~main.js.map": "/lekpramual/deploy-react/static/js/runtime~main.abea66b1.js.map",
-    "static/js/2.812eb2e6.chunk.js": "/lekpramual/deploy-react/static/js/2.812eb2e6.chunk.js",
-    "static/js/2.812eb2e6.chunk.js.map": "/lekpramual/deploy-react/static/js/2.812eb2e6.chunk.js.map",
-    "index.html": "/lekpramual/deploy-react/index.html",
-    "precache-manifest.5511409ff4adf27d939f0616677b55fc.js": "/lekpramual/deploy-react/precache-manifest.5511409ff4adf27d939f0616677b55fc.js",
-    "service-worker.js": "/lekpramual/deploy-react/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/lekpramual/deploy-react/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/deploy-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/deploy-react/static/js/main.d133f6db.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.d133f6db.chunk.js.map",
+    "runtime~main.js": "/deploy-react/static/js/runtime~main.5de6419e.js",
+    "runtime~main.js.map": "/deploy-react/static/js/runtime~main.5de6419e.js.map",
+    "static/js/2.812eb2e6.chunk.js": "/deploy-react/static/js/2.812eb2e6.chunk.js",
+    "static/js/2.812eb2e6.chunk.js.map": "/deploy-react/static/js/2.812eb2e6.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "precache-manifest.ddd2e6cdec5d5afc0e034609ee8ac1d7.js": "/deploy-react/precache-manifest.ddd2e6cdec5d5afc0e034609ee8ac1d7.js",
+    "service-worker.js": "/deploy-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/deploy-react/static/css/main.2cce8147.chunk.css.map"
   }
 }
